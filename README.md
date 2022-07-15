@@ -8,3 +8,4 @@ Setps:
     Run the DetectDisease_GUI.m file
     Select the Test Image
     Verify the Output
+    The Matlab software Version used in this project is MATLAB R2021b
