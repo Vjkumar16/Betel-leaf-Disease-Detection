@@ -1,4 +1,4 @@
-# Betel-leaf-Diseases-Detection
+# Betel-leaf-Disease-Detection
 Betel Leaf Diseases Detection using Machine Learning Algorithms in MatLab
 Setps:
 
